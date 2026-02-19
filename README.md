@@ -22,4 +22,3 @@
 2. Установите необходимые Python-зависимости:
    ```bash
    pip install -r requirements.txt
-  ```
